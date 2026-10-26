@@ -38,13 +38,13 @@
     "description": "Muçarela, provolone, parmesão e gorgonzola em uma combinação cremosa.",
     "image": "https://images.unsplash.com/photo-1579751626657-72bc17010498?auto=format&fit=crop&w=900&q=85",
     "prices": {
-      "Média": 46.9,
-      "Grande": 54.9,
-      "Família": 64.9
+      "Média": 3.9,
+      "Grande": 4.9,
+      "Família": 6.9
     },
     "image_url": "https://images.unsplash.com/photo-1579751626657-72bc17010498?auto=format&fit=crop&w=900&q=85",
     "available": true,
-    "price": 10,
+    "price": 9.93,
     "popular": false,
     "badge": null
   },
