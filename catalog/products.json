@@ -77,7 +77,8 @@
     "popular": true,
     "image_url": "https://images.unsplash.com/photo-1628840042765-356cda07504e?auto=format&fit=crop&w=900&q=85",
     "available": true,
-    "price": 47.9
+    "price": 42.83,
+    "badge": null
   },
   {
     "id": 6,
