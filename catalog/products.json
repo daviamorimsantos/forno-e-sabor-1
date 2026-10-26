@@ -149,9 +149,12 @@
     "category": "Sobremesas",
     "description": "Brownie de chocolate com creme de avelã.",
     "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?auto=format&fit=crop&w=900&q=85",
-    "price": 14.9,
+    "price": 17.88,
     "image_url": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?auto=format&fit=crop&w=900&q=85",
-    "available": true
+    "available": true,
+    "prices": null,
+    "popular": false,
+    "badge": null
   },
   {
     "id": 12,
