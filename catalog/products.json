@@ -61,7 +61,9 @@
     },
     "image_url": "https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&w=900&q=85",
     "available": true,
-    "price": 44.9
+    "price": 44.9,
+    "popular": false,
+    "badge": "QUERIDINHO DA TURMA!!"
   },
   {
     "id": 5,
